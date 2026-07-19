@@ -1,0 +1,39 @@
+You are an expert website copywriter and prompt engineer.
+
+Create complete, professional, conversion-focused website copy for a local dental clinic.
+
+Business Type: Dental Clinic
+Business Name: BrightSmile Dental Clinic
+Location: Hyderabad, India
+Target Audience: Children, adults, families, and individuals looking for professional dental care
+
+Generate the following sections:
+
+1. Homepage Copy
+- A catchy headline
+- A clear value proposition
+- A short introduction about the dental clinic
+- Key benefits
+- A strong call-to-action
+
+2. Services Section
+Create descriptions for:
+- General Dental Check-ups
+- Teeth Cleaning
+- Cosmetic Dentistry
+- Dental Implants
+
+3. Call-to-Action (CTA) Section
+Create persuasive CTA content for:
+- Book an appointment
+- Contact the clinic
+- Make an enquiry
+
+Requirements:
+- Use a professional, friendly, and reassuring tone.
+- Keep the language simple and easy to understand.
+- Make the content suitable for a real dental clinic website.
+- Focus on patient comfort, trust, and quality dental care.
+- Avoid exaggerated medical claims.
+- Do not provide medical diagnosis or treatment advice.
+- Format the output clearly with headings and bullet points.
